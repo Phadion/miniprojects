@@ -11,7 +11,7 @@ bool IsLoggedIn()
  string un;
  string pw;
 
-        cout<<"Enter username: ";
+ cout<<"Enter username: ";
  cin>>username;
  
  cout<<"Enter password: ";
